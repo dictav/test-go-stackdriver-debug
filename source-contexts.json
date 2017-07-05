@@ -1,0 +1,14 @@
+[
+  {
+    "context": {
+      "git": {
+        "revisionId": "a8492aaf85eb381a8584b089506278cd2cfcaf2d", 
+        "url": "https://github.com/dictav/test-go-stackdriver-debug"
+      }
+    }, 
+    "labels": {
+      "category": "remote_repo", 
+      "remote_name": "origin"
+    }
+  }
+]
